@@ -18,7 +18,9 @@ int main() {
     pricePtr = &price;
     priceVerification = price;
 
+    // Question: What value will pricePtr return?
     cout << pricePtr << endl;
+    // Question: What value will priceVerification return?
     cout << priceVerification << endl;
 
     return 0;
