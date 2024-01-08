@@ -1,6 +1,8 @@
 # Address-of operator (&)
 **Purpose**: Returns the address of a variable.
 
+**Read as**: address of
+
 **Syntax**:
 
 ```c++
