@@ -5,7 +5,7 @@
 **Definition**: A pointer is a variable that stores the memory address of an object.
 
 ```c++
-#include <isotream>
+#include <iostream>
 using namespace std;
 
 int main ()
