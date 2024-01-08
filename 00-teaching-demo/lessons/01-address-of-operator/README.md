@@ -27,4 +27,4 @@ int main() {
 }
 ```
 
-![Address-of Operator Visualized](../../assets/img/address-of-operator.png)
+![Address-of Operator Visualized](../../assets/img/address_of_operator.png)
