@@ -9,3 +9,8 @@
 3. A way to make finding and fixing bugs easier
 4. A way to make new feature development faster
 5. The best way to stay sane as a software engineer
+
+-- Lane Wagner
+
+> [!NOTE]
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.<br><br>-- Martin Fowler
