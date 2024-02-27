@@ -12,6 +12,7 @@ int main() {
 
     getline(cin, studentAName);
     cout << studentAName << endl;
+    // ignore 20 characters on the next cin, end reading after '\n'
     cin.ignore(20, '\n');
     return 0;
 }
