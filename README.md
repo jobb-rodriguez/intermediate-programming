@@ -2,6 +2,8 @@
 
 [Lessons](https://star-glacier.gitbook.io/c++-intermediate-programming)
 
+The Coding Problems are in your hackerearth profile.
+
 # Course Outline
 ## Refresher
 1. Arrays
