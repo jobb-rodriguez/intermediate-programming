@@ -2,7 +2,7 @@
 
 [Lessons](https://star-glacier.gitbook.io/c++-intermediate-programming)
 
-The Coding Problems are in your hackerearth profile.
+The Coding Problems are in your hackerrank profile.
 
 # Course Outline
 ## Refresher
