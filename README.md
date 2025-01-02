@@ -1,5 +1,7 @@
 # Intermediate Programming
 
+[Lessons](https://star-glacier.gitbook.io/c++-intermediate-programming)
+
 # Course Outline
 ## Refresher
 1. Arrays
