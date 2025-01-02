@@ -2,7 +2,7 @@
 
 [Lessons](https://star-glacier.gitbook.io/c++-intermediate-programming)
 
-The Coding Problems are in your hackerrank profile.
+[The Coding Problems are in your hackerrank profile.](https://www.hackerrank.com/golang-python-mastery)
 
 # Course Outline
 ## Refresher
